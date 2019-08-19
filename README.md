@@ -53,7 +53,7 @@ This website will be of the famous Hindi TV Series **Sacred Games**.
 |Muni Jha 	|Paritosh Shah 	|	
 |Karan Wahi |	Karan Malhotra |
 |Promita Banik |	Bunty's Girlfriend| 		
-|Nawab Shah 	|Salim Kaka |	Recurring 	
+|Nawab Shah 	|Salim Kaka |		
 |Saanand Verma |	Purushottam Baria 	|
 |Jaipreet Singh |	Constable Dilbagh Singh| 	
 |Raj Kashyap |	Junaid Sheikh 	|	
